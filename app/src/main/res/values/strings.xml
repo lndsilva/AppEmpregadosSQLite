@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppEmpregadosSQLite</string>
+
+    <array name="departamentos">
+        <item>Técnico</item>
+        <item>Marketing</item>
+        <item>Financeiro</item>
+        <item>Recursos Humanos</item>
+        <item>Produção</item>
+    </array>
+</resources>
